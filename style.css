@@ -251,8 +251,6 @@ kbd:hover {
   margin-bottom: 50px;
 }
 
-
-
 #portfolio .all-projects {
   display: flex;
   align-items: center;
@@ -287,7 +285,6 @@ kbd:hover {
   color: white;
   text-decoration: underline;
 }
-
 
 #portfolio .project-info h1 {
   font-size: 4rem;
@@ -606,7 +603,6 @@ svg {
   color: #80ffea;
 }
 
-
 /*- Seção Scrollbar -*/
 
 ::-webkit-scrollbar {
@@ -727,7 +723,7 @@ svg {
   .nav span {
     display: none;
   }
-  
+
   #social .nav svg {
     height: 50px;
     font-size: 20px;

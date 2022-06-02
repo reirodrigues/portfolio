@@ -569,10 +569,6 @@ svg {
 
 /*- Seção do Footer -*/
 
-footer {
-
-}
-
 #social {
   background-color: var(--colors-background);
 }
@@ -730,5 +726,10 @@ footer {
 
   .nav span {
     display: none;
+  }
+  
+  #social .nav svg {
+    height: 50px;
+    font-size: 20px;
   }
 }

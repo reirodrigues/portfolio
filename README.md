@@ -1,19 +1,22 @@
-<img align="center" src="https://i.ibb.co/NyVcfPy/github-header-image.png"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/birobirobiro/birobirobiro/master/animation_500_kv8i962g.gif"/>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=birobirobiro&color=blueviolet" alt="Profile views" /> 
 
-<img src="https://img.shields.io/twitch/status/birobirobiro?style=social" alt="Twitch Status" />
+<img src="https://img.shields.io/twitch/status/reirodrigues?style=social" alt="Twitch Status" />
 </p>
 
-- 🔭  I’m currently working on [Rocketseat](https://github.com/rocketseat/)
+- 🔭 I’m currently Studying full-stack
 
-- 🌱  I’m always studying **JavaScript, ReactJS, React Native, TypeScript, NodeJS**
+- 🌱 I’m currently learning javascript
 
-- 💬  Ask me about **Linux 🐧 or macOS 🍎**
+- 📫 How to reach me: reinaldorodrigues13@yahoo.com
 
-- 🚀  How to reach me  [birobirobiro.dev](https://birobirobiro.dev)
+- 😄 Pronouns: Ele/dele
 
-- 😻 Fun fact: All cats are named after food 
+- 🚀 [portfolio.reirodrigues](https://reirodrigues.github.io/portfolio/)
+
 
 <br>
 
@@ -35,22 +38,19 @@
 <br>
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=birobirobiro&show_icons=true&theme=nightowl" alt="biro's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=reirodrigues&show_icons=true&theme=nightowl" alt="rei's stats"/>
 </p>
 
 ##
 
 <p align="center" style="background:blue">
-  <a href="https://instagram.com/birobirobiro" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=instagram" alt="instagram"/>
+  <a href="https://instagram.com/reyrodrigues" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-reirodrigues-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://linkedin.com/in/birobirobiro" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/reinaldo-rodrigues-99695a192/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-reirodrigues-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://youtube.com/birobirobiro" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-  <a href="https://twitch.com/birobirobiro" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=twitch" alt="twitch"/>
+  <a href="https://twitter.com/reyrodrigues13" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-reirodrigues-05122A?style=flat&logo=twitter" alt="twitch"/>
 </a>
 </p>
